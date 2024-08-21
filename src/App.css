@@ -1,0 +1,21 @@
+
+*{
+
+  text-decoration: none !important;
+  font-family: "Grey Qo", cursive;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+
+.scrollBody {
+
+  scrollbar-width :none;
+  -ms-overflow-style:none
+}
+
+
+.scrollBody::--webkit-scrollbar{
+  display:none;
+}
